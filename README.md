@@ -62,6 +62,8 @@ Just follow this easy steps. 1, 2, 3!
 
 
 ## ChatGPT Width Expander
+Gist link: [ChatGPT Width Expander](https://gist.github.com/AitorAstorga/cae2b3deddd112ef8306f421b7f13f78)
+
 - **Motivation:**
   
   I noticed ChatGPT's chat box was too narrow, especially on big screens. Scrolling through long texts or codes wasn't fun!
@@ -82,6 +84,7 @@ ps: I wrote that with ChatGPT lol
 
 
 ## Google Drive - Clean Style
+Gist link: [Google Drive - Clean Style](https://gist.github.com/AitorAstorga/424f34600d7c46e28aba1d6a540aa346)
 
 - **Motivation:**
 
