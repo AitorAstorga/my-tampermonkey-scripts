@@ -109,7 +109,7 @@ Gist link: [Infinite Scroll Loader ](https://gist.github.com/AitorAstorga/91de98
 
 - **Motivation:**
 
-  My boyfriend wanted to load all the data in an infinite scroll website (Steam) for a one time search.
+  I wanted to load all the data in an infinite scroll website (Steam) for a one time search.
 
 - **What the script does:**
 
