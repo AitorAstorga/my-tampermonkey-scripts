@@ -43,6 +43,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#chatgpt-width-expander">ChatGPT Width Expander</a></li>
     <li><a href="#google-drive---clean-style">Google Drive - Clean Style</a></li>
+    <li><a href="#infinite-scroll-loader">Infinite Scroll Loader</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -65,11 +66,11 @@ Just follow this easy steps. 1, 2, 3!
 Gist link: [ChatGPT Width Expander](https://gist.github.com/AitorAstorga/cae2b3deddd112ef8306f421b7f13f78)
 
 - **Motivation:**
-  
+
   I noticed ChatGPT's chat box was too narrow, especially on big screens. Scrolling through long texts or codes wasn't fun!
 
 - **What the script does:**
-  
+
   This script stretches the chat box, making it use up to 90% of the screen width. No more unnecessary scrolling!
 
 ps: I wrote that with ChatGPT lol
@@ -91,7 +92,6 @@ Gist link: [Google Drive - Clean Style](https://gist.github.com/AitorAstorga/424
   Google Drive's grid view had bigger card margins and a lot of blue. I wanted a tighter grid and a cleaner look.
 
 - **What the script does:**
-
   - Makes the space between file cards only 1px.
   - Gives the background a fresh white look.
 
@@ -101,10 +101,21 @@ Gist link: [Google Drive - Clean Style](https://gist.github.com/AitorAstorga/424
 ### After
 ![imagen](https://github.com/AitorAstorga/my-tampermonkey-scripts/assets/44289776/96f6baa8-0dd6-4ca9-8048-57156039b2f4)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Infinite Scroll Loader
+Gist link: [Infinite Scroll Loader ](https://gist.github.com/AitorAstorga/91de98a723043c01dbd155e303fcf121)
+
+- **Motivation:**
+
+  My boyfriend wanted to load all the data in an infinite scroll website (Steam) for a one time search.
+
+- **What the script does:**
+
+   It scrolls to the bottom of the specified page. Replace `YOUR_URL_HERE` with the URL of the website you want to scroll.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
