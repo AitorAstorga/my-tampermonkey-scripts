@@ -44,6 +44,7 @@
     <li><a href="#chatgpt-width-expander">ChatGPT Width Expander</a></li>
     <li><a href="#google-drive---clean-style">Google Drive - Clean Style</a></li>
     <li><a href="#infinite-scroll-loader">Infinite Scroll Loader</a></li>
+    <li><a href="#atoss-work-time-total-counter">ATOSS Work Time Total Counter</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -114,6 +115,23 @@ Gist link: [Infinite Scroll Loader ](https://gist.github.com/AitorAstorga/91de98
 - **What the script does:**
 
    It scrolls to the bottom of the specified page. Replace `YOUR_URL_HERE` with the URL of the website you want to scroll.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## ATOSS Work Time Total Counter
+Gist link: [ATOSS Work Time Total Counter](https://gist.github.com/AitorAstorga/dba22f8be294c3f36e28830259670053)
+
+- **Motivation:**
+
+  The [ATOSS](https://www.atoss.com/) time tracking system does not include a built-in counter to track how much time I have worked during the day. This means that I have to calculate my entry times, breaks, and exit times.
+
+- **What the script does:**
+
+  This script calculates the total working time for the day based on the entries recorded in the ATOSS system and displays the accumulated time in a counter located in the toolbar. It continuously updates the total work time based on the entries made throughout the day, allowing for easy tracking without the need for manual calculations.
+
+  ![imagen](https://github.com/user-attachments/assets/11f75e10-f7b9-4821-bcae-3b1923b0fa88)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
