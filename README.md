@@ -19,10 +19,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AitorAstorga/my-tampermonkey-scripts">
-    <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">My Tampermonkey Scripts</h3>
 
   <p align="center">
@@ -34,6 +30,20 @@
     <a href="https://github.com/AitorAstorga/my-tampermonkey-scripts/issues">Request Feature</a>
   </p>
 </div>
+
+<table>
+  <tr>
+    <th  colspan="2">Scripts</th>
+  </tr>
+  <tr>
+    <td><a href="#chatgpt-width-expander">ChatGPT Width Expander</a><img width="441" height="1"></td>
+    <td><a href="#google-drive---clean-style">Google Drive - Clean Style</a><img width="441" height="1"></td>
+  </tr>
+  <tr>
+    <td><a href="#infinite-scroll-loader">Infinite Scroll Loader</a></td>
+    <td><a href="#atoss-work-time-total-counter">ATOSS Work Time Total Counter</a></td>
+  </tr>
+</table>
 
 
 <!-- TABLE OF CONTENTS -->
